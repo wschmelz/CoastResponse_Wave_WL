@@ -1,4 +1,4 @@
-Semi-empirical modeling scripts and data for 
+Semi-empirical modeling scripts and data for:
 
 Semi-empirically modeling barrier sediment transport in response to hydrodynamic forcing using UAV-derived topographical data (Holgate, New Jersey)
 
