@@ -2,7 +2,8 @@ Scripts and data for
 Semi-empirically modeling barrier sediment transport in response to hydrodynamic forcing using UAV-derived topographical data (Holgate, New Jersey)
 
 W. John Schmelz, Ashlyn Spector, Lauren Neitzke-Adamo, Kenneth G. Miller
-1Department of Earth and Planetary Sciences, Rutgers University, 610 Taylor Road, Piscataway, New Jersey 08854
+
+Department of Earth and Planetary Sciences, Rutgers University, 610 Taylor Road, Piscataway, New Jersey 08854
 
 Description:
 This document outlines the scripts and processes involved in analyzing the topographical data collected from UAV-RTK surveys, estimating the beach and dune elevations, calculating volumetric changes, and applying a semi-empirical model.
