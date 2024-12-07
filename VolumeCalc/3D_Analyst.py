@@ -1,0 +1,3 @@
+#run file
+
+import tmp
